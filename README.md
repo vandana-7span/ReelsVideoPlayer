@@ -31,7 +31,7 @@ ReelsVideoPlayer is a customizable Swift package for implementing an Instagram R
 ### Basic Implementation
 
 ```swift
-import ReelsPlayer
+import ReelsVideoPlayer
 import SwiftUI
 
 struct ContentView: View {
