@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "ReelsVideoPlayer",
-    platforms: [.iOS(.v15)], // Define minimum iOS version
+    platforms: [.iOS(.v17)], // Define minimum iOS version
     products: [
         .library(
             name: "ReelsVideoPlayer",
