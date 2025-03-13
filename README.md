@@ -1,3 +1,5 @@
+![ReelsVideoPlayer Demo](ReelVideoPlayer-4.gif)
+
 # ReelsVideoPlayer Swift Package
 
 ReelsVideoPlayer is a customizable Swift package for implementing an Instagram Reels-style video player in SwiftUI. It supports smooth infinite scrolling, video playback optimization, interactive progress sliders, and customizable overlays.
@@ -94,7 +96,6 @@ struct ContentView: View {
 ```
 
 ---
-
 ## Customization
 
 ### Overlay Customization
